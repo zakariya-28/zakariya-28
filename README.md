@@ -168,7 +168,7 @@ zakariya = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mzakriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mzakriya)
 [![Email](https://img.shields.io/badge/Email-mdzzakariya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzzakariya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kaifx--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaifx-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-kaifx--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakariya-28)
 
 </div>
 
