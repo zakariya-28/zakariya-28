@@ -22,11 +22,11 @@
 ## 🚀 About Me
 
 ```python
-zakariya = {
+Mohammed Zakariya = {
     "role"      : "Final-year CS undergrad @ PES College of Engineering, Aurangabad",
     "experience": "ISRO Software Engineer Intern — Space Navigation Group, Bangalore",
-    "stack"     : ["C", "Python", "AWS Bedrock", "LangChain", "Docker", "Linux"],
-    "domains"   : ["Embedded Systems", "AI/RAG", "Real-time OS", "Spacecraft Software"],
+    "stack"     : ["C",CPP "Python", "AWS Bedrock", "LangChain", "Docker", "Linux"],
+    "domains"   : ["Software Engineer", "AI/ML", "Real-time OS", "Spacecraft Software"],
     "currently" : "Writing research paper on ODP in SAMRH Microcontroller",
     "fun_fact"  : "I helped decide which processor flies on India's next LEO satellites 🛰️",
 }
@@ -39,7 +39,7 @@ zakariya = {
 > During my internship at ISRO's Space Navigation Group (Aug–Sep 2025), I didn't just shadow engineers.
 
 - **Integrated ODP into spacecraft On-Board Computer (OBC)** — 30% faster mission planning
-- **Designed 21 discrete switches** in the Orbit Determination software, each executing within 15ms inside a 16ms interrupt window
+- **Designed 21 discrete switches** in the Orbit Determination software, each executing within 15ms inside a strict interrupt window
 - **Led processor architecture evaluation** — SAMRH vs LEON-3 — my data-driven recommendation determined hardware selection for India's future LEO missions
 - **Optimized DMA + ECC** for multitasking in radiation-prone space environments, improving reliability by 25%
 
@@ -86,7 +86,7 @@ zakariya = {
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛰️ **ODP System** | Real-time orbit determination software for LEO spacecraft; 21 switches, each <15ms execution | C · SAMRH · Linux · OS |
+| 🛰️ **ODP System** | Real-time orbit determination software for Micro satellite spacecraft; 21 switches, each <15ms execution | C · SAMRH · Linux · OS |
 | 🤖 **AI RAG Pipeline** | Context-aware AI query system with custom dataset ingestion and semantic retrieval | Python · AWS Bedrock · LangChain · Docker |
 | 📚 **Library Management DB** | Full-stack console app for library resource lifecycle with persistent storage | Python · MySQL · SQLite · Git |
 
