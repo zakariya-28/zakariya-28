@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 About Me
-
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=0096FF&height=200&section=header&text=Software%20Engineer%20%26%20Researcher&fontSize=50)
 ```python
 Mohammed Zakariya = {
     "role"      : "Final-year CS undergrad @ PES College of Engineering, Aurangabad",
