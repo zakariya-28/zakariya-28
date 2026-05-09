@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Animated typing intro — the signature move from gautamkrishnar's profile -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mohammed Zakariya+%F0%9F%91%8B;ISRO+Software+Engineer+Intern;Embedded+Systems+%2B+AI+Builder;C+%7C+Python+%7C+AWS+Bedrock)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mohammed+Zakariya+%F0%9F%91%8B;ISRO+Software+Engineer+Intern;Embedded+Systems+%2B+AI+Builder;C+%7C+Python+%7C+AWS+Bedrock)](https://git.io/typing-svg)
 
 <!-- One-liner bio -->
 <p><em>I build at the intersection of spacecraft software and AI — from real-time orbit systems at ISRO to RAG pipelines on AWS.</em></p>
